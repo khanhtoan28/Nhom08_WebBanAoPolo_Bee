@@ -10,7 +10,7 @@ require_once('database/dbhelper.php');?>
                         <div class="col-md-12 text-center">
                             <div class="con-text">
                                 <h2 class="page-title">Bộ Sưu Tập</h2>
-                                <p><a href="#">Home</a> | Thương hiệu</p>
+                                <p><a href="#">Home</a> | Thương hiệu </p>
                             </div>
                         </div>
                     </div>
