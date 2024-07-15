@@ -42,7 +42,7 @@
                     <div class="col-md-12 col-xs-12">
                         <div class="tb-login-form ">
                             <h5 class="tb-title">Đăng ký</h5>
-                            <p>Đăng ký tài khoản để có thể mua sắm tại Luxury Store</p>
+                            <p>Đăng ký tài khoản để có thể mua sắm tại PoloBee Store</p>
                             <!-- <div class="tb-social-login">
                                 <a class="tb-facebook-login" href="#">
                                     <i class="fa fa-facebook"></i>
